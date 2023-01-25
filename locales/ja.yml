@@ -1,0 +1,37 @@
+components:
+  language_switcher:
+    change_language: 言語を変えてください
+  theme_switcher:
+    theme: テーマ
+    change_theme: テーマを変えてください
+pages:
+  index:
+    title: nuxt 3,素晴らしい,スターター
+    first_card: The Parker House has several different food and spirit venues offering up everything from fine dining to signature mini burgers, fresh-steamed lobsters, and tavern specialties. Have a look at our menus; we have something for everyone!
+    first_card_dark: The less you eat, the less cash you have to bring to bring to buy miller lights and over poured vodka mixers. Anything you have eaten will end up on the floor anyway so don't worry about it.
+  blank:
+    nav: 空白
+    title: 空白ページ
+    just_blank_page_with_title: 空白ページのみにタイトル
+  test:
+    nav: テスト
+    title: テスト
+    counter: カウンター
+    increment: 増加
+    decrement: 減少
+    reset: リセット
+    identity: 識別
+    full_name: 全名
+  about:
+    nav: このサイトについて
+    title: このサイトについて
+  dashboard:
+    nav: ダッシュボード
+    title: ダッシュボード
+    index:
+      nav: ホーム
+      title: ホーム
+banners:
+  welcome: こんにちは, %{app_name} へようこそ!
+others:
+  learn_more: 続きを読む

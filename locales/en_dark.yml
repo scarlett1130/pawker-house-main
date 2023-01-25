@@ -1,0 +1,59 @@
+components:
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+  nav:
+    logo: logo_dark.png
+pages:
+  index:
+    title: Welcome, To, God's Basement
+    first_card: The less you eat, the less cash you have to bring to buy miller lites and over-poured vodka mixers. Anything you have eaten will end up on the floor anyway so don't worry about it.
+    first_image: nightlife_1.png
+    first_link: https://www.spirit76wines.com/login.html
+    second_card: Yeah dude. FOOKING TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIITS
+    second_image: nightlife_2.png
+    second_link: https://www.pornhub.com/
+    third_card: Expect keybumps in line for the bathroom and expect to be disappointed when no one offers. Fucking cheap rat bastards.
+    third_image: nightlife_3.png
+    third_link: https://media.makeameme.org/created/criticizes-potus-for.jpg
+    fourth_card: Cash only. I'm not paying for your cover or your drinks or your Uber or your sloppy pizza. Stop being a freeloader
+    fourth_image: nightlife_4.png
+    fourth_link: https://www.dominos.com/en/
+    fifth_card: To this day, this sign has stopped a total of 0 people.
+    fifth_image: nightlife_5.png
+    fifth_link: https://www.youtube.com/watch?v=bWVS82hS070
+    sixth_card: Did you know the average amount of money you spend on rum and cokes could have bought you several months of a Club Penguin membership?
+    sixth_image: nightlife_6.png
+    sixth_link: https://play.myclubpenguin.com/
+    seventh_card: All in all, it's a good time. Place has been getting people fucked up for years. Don't believe me? Look at the guy on a left doing a shoey. You think he'd be doing that if his parents weren't ripping shots of Jim Bean while he was in the womb?
+    seventh_image: nightlife_7.png
+    seventh_link: https://youtu.be/X3s9RVg2STY?t=59
+  blank:
+    nav: blank
+    title: blank page
+    just_blank_page_with_title: just blank page with title
+  test:
+    nav: test
+    title: testing
+    counter: counter
+    increment: increment
+    decrement: decrement
+    reset: reset
+    identity: identity
+    full_name: fullName
+  about:
+    nav: about
+    title: about
+    description: A dumb project I made to prove that I could make a better parker house website. I was wrong.
+  dashboard:
+    nav: dashboard
+    title: dashboard
+    index:
+      nav: home
+      title: home
+banners:
+  welcome: hello, welcome to %{app_name}!
+others:
+  learn_more: learn more

@@ -1,0 +1,59 @@
+components:
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+  nav:
+    logo: logo_light.png
+pages:
+  index:
+    title: Welcome, To, Parker House
+    first_card: Ever wondered if there was a place where you could sunbathe on the beach till noon, dine on seafood till 6, and wrap it up with a night of quality cocktails and live music? Welcome to Parker House.
+    first_image: daylife_1.png
+    first_link: https://www.youtube.com/watch?v=bkinxed8-Ws
+    second_card: Located just steps from the beach in the lovely seaside town of Sea Girt, you'll find a stately building proudly showing its age yet just as popular as it was decades ago. It's become the town's identity and crown jewel.
+    second_image: daylife_2.png
+    second_link: https://www.nytimes.com/2017/08/19/style/parker-house-jersey-shore.html
+    third_card: The Parker House has several different food and spirit venues offering up everything from fine dining to signature mini burgers, fresh-steamed lobsters, and tavern specialties. Have a look at our menus; we have something for everyone!
+    third_image: daylife_3.png
+    third_link: https://www.youtube.com/watch?v=l2gEK64fc6c
+    fourth_card: Whoever says love at first sight doesn't exist has yet to spend a night out here. There's no better love story than one that starts with a few rounds of Mind Erasers and Spring Lakers before crying in the Uber about your ex.
+    fourth_image: daylife_4.png
+    fourth_link: https://www.treulaw.com/divorce/
+    fifth_card: Enjoy live music and free covers on holidays! See hit local bands that may or may not have your 5th grade teacher on drums or that creep at the bar last week on lead guitar.
+    fifth_image: daylife_5.png
+    fifth_link: https://youtu.be/m001XNiwQzw?t=41
+    sixth_card: Coming for the nightlife but want to skip the line? While the cards are in limited quantity and renewals have first choice, you can join the wait list with others like "Reeeeeeeega", "The Tutz", "Ding Dong", and "Bill The Hammer"
+    sixth_image: daylife_6.png
+    sixth_link: https://vimeo.com/168717405
+    seventh_card: Whatever your reason, come experience Pawker Hawse yourself. There's only so much that can be captured on a parody site made for a friend. Come on in and harass the hell out of her. Order several complicated drinks and spill most of them on the bar before you leave. First round is on her.
+    seventh_image: daylife_7.png
+    seventh_link: https://parkerhousenj.com/
+  blank:
+    nav: blank
+    title: blank page
+    just_blank_page_with_title: just blank page with title
+  test:
+    nav: test
+    title: testing
+    counter: counter
+    increment: increment
+    decrement: decrement
+    reset: reset
+    identity: identity
+    full_name: fullName
+  about:
+    nav: about
+    title: about
+    description: A silly little project made for a friend's birthday.
+  dashboard:
+    nav: dashboard
+    title: dashboard
+    index:
+      nav: home
+      title: home
+banners:
+  welcome: hello, welcome to %{app_name}!
+others:
+  learn_more: learn more
